@@ -1,0 +1,8 @@
+services:
+  agent_line:
+    image: agent-line:latest
+    volumes:
+      - "./data:/data"
+    ports:
+      - "5100:5100"
+    restart: always
