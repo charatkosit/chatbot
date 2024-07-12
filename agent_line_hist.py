@@ -9,6 +9,7 @@ load_dotenv()
 # tavily_api_key = os.getenv('TAVILY_API_KEY')
 # langchain_tracing_v2 = True
 # langchain_api_key = os.getenv('LANGCHAIN_API_KEY')
+#commments
 openai_api_key = "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"
 anthropic_api_key = "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"
 tavily_api_key = "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"
